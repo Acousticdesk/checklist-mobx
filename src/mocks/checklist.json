@@ -1,0 +1,22 @@
+{
+  "topic": "How to choose a correct FE stack",
+  "questionnaire": [
+    {
+      "question": "What tool do you prefer using?",
+      "answers": [
+        {
+          "label": "React"
+        },
+        {
+          "label": "Angular"
+        },
+        {
+          "label": "Vue"
+        },
+        {
+          "label": "No Opinion"
+        }
+      ]
+    }
+  ]
+}
